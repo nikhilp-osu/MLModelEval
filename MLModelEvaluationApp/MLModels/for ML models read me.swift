@@ -8,3 +8,6 @@
 
 
 // the 3 ml models were removed from the code because they were crossing the size 100 mb, hence are requested to be manually loaded inplace of this file
+// MobileNetV2
+// ResNet-50
+// YOLOv3-FP16
