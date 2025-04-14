@@ -12,9 +12,7 @@ At the end we will move to the results page where we will display the winner mod
 
 Steps to install:
 1. Clone the repo
-2. Download the ml models for apple ml library (because of size, they were not allowed to be pushed)
-3. Put the ml models into directory - MLModels
-4. Run the app 
+2. Run the app 
 
 Ml models used:
 Yolov3FP16
